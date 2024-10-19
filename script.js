@@ -21,7 +21,7 @@ $(document).ready(function () {
     /* Typing animation Script */
 
     var typed = new Typed(".typing-1", {
-        strings: ["Student @MMMUT", "Developer", "competitive Coder"],
+        strings: ["Student @MMMUT", "Web Developer", "Competitive Coder"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true

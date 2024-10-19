@@ -99,7 +99,10 @@ html {
 
 .sticky {
     padding: 12px 0;
-    background: rgb(91, 9, 132);
+    /* background: rgb(91, 9, 132); */
+    background: rgb(24, 69, 97);
+
+
 }
 
 .navbar .max-width {
@@ -420,19 +423,31 @@ html {
 }
 
 .skills-content .right .js::before {
-    width: 60%;
+    width: 80%;
 }
 
-.skills-content .right .php::before {
+.skills-content .right .react::before {
     width: 70%;
 }
 
-.skills-content .right .mysql::before {
-    width: 60%;
+.skills-content .right .back::before {
+    width: 70%;
+}
+
+.skills-content .right .c::before {
+    width: 90%;
+}
+
+.skills-content .right .cpp::before {
+    width: 80%;
 }
 
 .skills-content .right .ps::before {
-    width: 40%;
+    width: 70%;
+}
+
+.skills-content .right .csfunda::before {
+    width: 80%;
 }
 
 /* Teams Section Starts */
@@ -550,7 +565,7 @@ html {
 }
 
 .contact .contact-content .info .head {
-    font-weight: 500;
+    font-weight: 650;
 }
 
 .contact .contact-content .info .sub-title {
